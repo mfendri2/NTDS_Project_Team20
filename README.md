@@ -7,7 +7,7 @@ See the report for more details. </p>
 
 ## Running the code
 The repository contains two jupyter notebooks and one file containing all the datasets:
-* Graph_based_feature_extraction.ipynb : This Notebook allows to compute the graph based features and create a final dataset containing the nodes of the network and the calculated features (content based and graph based).
+* feature_extraction.ipynb : This Notebook allows to compute the graph based features and create a final dataset containing the nodes of the network and the calculated features (content based and graph based).
 
 * Classification.ipynb : This notebook allows to tune hyperparameters for different supervised learning algorithm on the dataset provided by the first notebook in order to classify the nodes beetween spammers and non spammers.</p>
 
