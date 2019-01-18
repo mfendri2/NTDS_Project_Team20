@@ -11,11 +11,11 @@ The dataset represent users from tagged.com social network. The full dataset is 
 
 Please think to change the name of the csv files to be able to run the code. These are the name of the different datasets we worked on : 
 * usersdata.csv : this file contain the different users and they content features.
-* filtered_relations_1.csv : This file should contain the edges of the relation 1 between the nodes. 
-* filtered_relations_2.csv : This file should contain the edges of the relation 2 between the nodes. 
-* filtered_relations_4.csv : This file should contain the edges of the relation 4 between the nodes.
-* filtered_relations.csv : This file should contain the edges of the relation 5 between the nodes.
-* filtered_relations_7.csv : This file should contain the edges of the relation 7 between the nodes.
+* filtered_relations_1.csv : This file  contains the edges of the relation 1 between the nodes. 
+* filtered_relations_2.csv : This file  contains the edges of the relation 2 between the nodes. 
+* filtered_relations_4.csv : This file  contains the edges of the relation 4 between the nodes.
+* filtered_relations.csv : This file  contains the edges of the relation 5 between the nodes.
+* filtered_relations_7.csv : This file  contains the edges of the relation 7 between the nodes.
 
 These filtered relations files should be generated using the spammer_subnetwork.ipynb after downloading the full dataset from the link above. </p>
               
