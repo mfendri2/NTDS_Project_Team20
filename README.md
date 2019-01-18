@@ -1,4 +1,4 @@
-# Spammer on social network detection
+# Spammers on social network detection
 <p> <center> (NTDS EPFL, Fall 2018)</center>  </p>
 <p> Feature extraction, classification , and prediction of spammers on social network
 
