@@ -24,7 +24,9 @@ The repository contains two jupyter notebooks and one file containing all the da
 * feature_extraction.ipynb : This Notebook allows to compute the graph based features and create a final dataset containing the nodes of the network and the calculated features (content based and graph based).
 * Classification.ipynb : This notebook allows to tune hyperparameters for different supervised learning algorithm on the dataset provided by the first notebook in order to classify the nodes beetween spammers and non spammers.</p>
  
-              
+## More details
+See the project report provided also in the repository. The slides presented is also provided.
+
 
 ## Authors
 <p> <center> (©) EPFL-NTDS-Group20-Fendri Hedi,Jeha Paul,Nguyen Minh Nguyet,Mantonanaki Christina  </center> </p>
