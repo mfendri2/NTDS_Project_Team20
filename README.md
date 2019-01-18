@@ -22,6 +22,7 @@ These filtered relations files should be generated using the spammer_subnetwork.
 The repository contains two jupyter notebooks and one file containing all the datasets:
 * spammer_subnetwork.ipynb : (©) Eda Bayram : Please  filter the original huge file based on the relation. Create relation 1 2 4 5 and 7: these are the relations we worked on for this project.
 * feature_extraction.ipynb : This Notebook allows to compute the graph based features and create a final dataset containing the nodes of the network and the calculated features (content based and graph based).
+* feature_exploration.upynb : This notebook try to better understand the computed features in details. 
 * Classification.ipynb : This notebook allows to tune hyperparameters for different supervised learning algorithm on the dataset provided by the first notebook in order to classify the nodes beetween spammers and non spammers.</p>
  
 ## More details
